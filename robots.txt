@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://deerfoot-casino.com/
+Sitemap: https://deerfoot-casino.com/sitemap.xml
